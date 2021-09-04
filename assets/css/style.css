@@ -141,7 +141,7 @@ main .coluna{
 main .coluna section{
     border-bottom: 1px solid var(--corBordar);
     margin: 0 0 20px;
-    min-height: 187px;
+    min-height: 148px;
     color: var(--corTextoSecundaria);
 }
 main .coluna section h2{
