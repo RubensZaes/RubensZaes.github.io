@@ -302,8 +302,8 @@ label span{
         top: -3px;
         left: -3px;
         animation-name: aumentarLargura, aumentarAltura;
-        animation-duration: 1s, 1s;
-        animation-delay: 1s, 2s;
+        animation-duration: 2s, 2s;
+        animation-delay: 1s, 3s;
         animation-fill-mode: forwards;
         border-top-color: var(--corBordar);
         border-right-color: var(--corBordar);
@@ -313,8 +313,8 @@ label span{
         bottom: -3px;
         right: -3px;
         animation-name: aumentarLargura, aumentarAltura;
-        animation-duration: 1s, 1s;
-        animation-delay: 3s, 4s;
+        animation-duration: 2s, 2s;
+        animation-delay: 5s, 7s;
         animation-fill-mode: forwards;
         border-bottom-color: var(--corBordar);
         border-left-color: var(--corBordar);
