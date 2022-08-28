@@ -156,6 +156,7 @@ main .coluna section p{
 }
 main .coluna section ul li{
     margin: 0 0 12px;
+    list-style-type: disc;
 }
 main .coluna section ul li h3{
     font-size: 1.1rem;
